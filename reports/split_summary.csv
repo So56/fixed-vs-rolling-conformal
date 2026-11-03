@@ -1,0 +1,4 @@
+split,first_date,last_date,n,high_vix_days
+training,2017-01-03,2018-12-31,502,5
+calibration,2019-01-02,2019-12-31,252,0
+test,2020-01-02,2026-10-28,1715,149

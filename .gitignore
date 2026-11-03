@@ -1,0 +1,34 @@
+# Pythonの仮想環境とキャッシュ
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# 再現実行のコピー、ログ、実行環境の記録
+/reproduction/
+*.log
+*.tmp
+*.temp
+*.bak
+~$*
+
+# 認証情報と端末ごとの設定
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# data/・outputs/・reports/は再現性の確認に使うため含める。

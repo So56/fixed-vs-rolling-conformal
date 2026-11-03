@@ -1,0 +1,2 @@
+block_length,repeats,seed,threshold,n,alpha,rolling_window,rng,input_sha256,python,numpy,pandas,executed_at_utc
+10,5000,202701,30,1715,0.1,252,PCG64,c178f28eb2de48c788f1e43782946eaf5a2e6f0b77a704f47ebd30d1ae2fa744,3.13.14,2.5.4,3.1.0,2026-10-31T12:10:16.487342+00:00
